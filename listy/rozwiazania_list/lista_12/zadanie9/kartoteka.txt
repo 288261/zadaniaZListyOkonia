@@ -1,0 +1,12 @@
+Student 1:
+Imię i nazwisko: 32131 3213
+Adres: 1313
+Numer akademika: 13131
+Dochód na osobę w rodzinie: 31.00
+
+Student 2:
+Imię i nazwisko: 321312 321313
+Adres: 13123
+Numer akademika: 131
+Dochód na osobę w rodzinie: 32131.00
+

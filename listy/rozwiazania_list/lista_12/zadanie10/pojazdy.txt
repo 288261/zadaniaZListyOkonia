@@ -1,0 +1,6 @@
+Pojazd 1:
+Numer rejestracyjny: cos-23241
+Marka pojazdu: chevrolet
+Typ pojazdu: osobowy
+Liczba osób: 5
+

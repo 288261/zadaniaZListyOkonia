@@ -1,0 +1,8 @@
+Dlaczego akurat w tej liscie stworzyłem osobny folder na kazde zadanie a w kazdej innej nie?
+
+Odpowiedz jest prosta, dla lepszej struktury zadan, dzieki temu nie musimy przeszukiwac wszystkich 
+plikow .txt w szukaniu konkretnego pliku
+
+Przy wiekszych projektach struktura plikow to podstawa, jesli ma sie powiedzmy 1000 plikow to znalezenie 
+sie w nich, znalezienie tego jednego konkretnego liczy sie z cudem i znaczna iloscia czasu, co jest nie 
+oplacalne takze lepiej sie uczyc dobrych nawykow, bo pozniej jest je ciezko je zmienic

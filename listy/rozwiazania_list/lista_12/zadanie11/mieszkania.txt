@@ -1,0 +1,7 @@
+Mieszkanie 1:
+Adres: Wroclaw
+Powierzchnia: 56.00 m2
+Liczba pokoi: 3
+Numer piętra: 4
+Cena: 2500.00 PLN
+
